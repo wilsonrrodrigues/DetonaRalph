@@ -8,6 +8,6 @@
 
 ## Como Jogar
 
-1.Clone este repositório para sua máquina local. </br>
-2.Abra o arquivo **index.html** em seu navegador web.</br> 
-3.Utilize o mouse para as ações.
+1. Clone este repositório para sua máquina local. 
+2. Abra o arquivo **index.html** em seu navegador web. 
+3. Utilize o mouse para as ações.
